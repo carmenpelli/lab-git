@@ -1,0 +1,10 @@
+diff --git a/ejemplo.txt b/ejemplo.txt
+index 1da5b04..2d82ea1 100644
+--- a/ejemplo.txt
++++ b/ejemplo.txt
+@@ -2,3 +2,5 @@ Este es un archivo de ejemplo.
+ 
+ Estas tres primeras líneas estaban escritas inicialmente.
+ 
++Esta es la copia local.
++
