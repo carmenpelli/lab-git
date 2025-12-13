@@ -1,0 +1,19 @@
+Archivos detectados:
+/home/alumno18/lab3/lab-git/Sample1.fastq
+/home/alumno18/lab3/lab-git/Sample2.fastq
+/home/alumno18/lab3/lab-git/Sample3.fastq
+/home/alumno18/lab3/lab-git/Sample4.fastq
+Lanzando 4 procesos en paralelo...
+Procesando: /home/alumno18/lab3/lab-git/Sample2.fastq
+Cortando 1/18 del fichero → 5555 líneas
+Procesando: /home/alumno18/lab3/lab-git/Sample4.fastq
+Cortando 1/18 del fichero → 5555 líneas
+Procesando: /home/alumno18/lab3/lab-git/Sample3.fastq
+Cortando 1/18 del fichero → 5555 líneas
+Procesando: /home/alumno18/lab3/lab-git/Sample1.fastq
+Cortando 1/18 del fichero → 5555 líneas
+Corte completado.
+Corte completado.
+Corte completado.
+Corte completado.
+Todos los archivos han sido procesados.
